@@ -1,0 +1,40 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Kotlin
+/bin
+/gen
+
+# Built variants
+*.apk
+*.aar
+*.ap_
+*.der
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+CMakeLists.txt.user
+cmake_install.cmake
+install_manifest.txt
+Makefile
+/app/.cxx
+/app/build
+/build
+
+# Shaders (binary)
+*.spv
